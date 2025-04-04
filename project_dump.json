@@ -1,0 +1,14 @@
+[
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "Tata Nexon",
+        "state": "BR",
+        "city": "samastipur",
+        "color": "Red",
+        "model": "Nexon",
+        "year": 2016,
+        "condition": "used",
+        "price": 10000,
+        "description": 
