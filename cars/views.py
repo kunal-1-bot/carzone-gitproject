@@ -23,9 +23,9 @@ def cars(request):
     return render(request, 'cars/cars.html',data)
 
 def car_detail(request,id):
-    singale_car = get_object_or_404(Car,pk=id)
+    single_car = get_object_or_404(Car,pk=id)
     data={
-        'singale_car': singale_car,
+        'single_car': single_car,
     }
     return render(request, 'cars/car_detail.html',data)
 
