@@ -94,8 +94,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'carzone_db',
-        'USER': 'postgres',
-        'PASSWORD': 'Kunu@123',
+        'USER': 'xxxxxxxxxxxxx',
+        'PASSWORD': 'xxxxxxxxxxxx',
         'HOST': 'localhost',
         'PORT': '5432'
     }
@@ -166,6 +166,6 @@ SITE_ID =1
 # Emaol sending
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'carzone827@gmail.com'
-EMAIL_HOST_PASSWORD = 'czuj tmsl bwum qhlk'
+EMAIL_HOST_USER = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.com'
+EMAIL_HOST_PASSWORD = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxk'
 EMAIL_USE_TLS = True
